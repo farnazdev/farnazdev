@@ -1,5 +1,5 @@
 ## About me 
-Hi, I'm Farnaz, a software engeeniering student with a focus on back-end development and data analytics. My strong suit lies in technologies like TypeScript and JavaScript, and I work with frameworks such as React and Node.js. I enjoy challenging myself to learn new technologies and strive to be constantly growing.
+Hi, I'm Farnaz, a Software Engineering student with a focus on back-end development and data analytics. My strong suit lies in technologies like TypeScript and JavaScript, and I work with frameworks such as React and Node.js. I enjoy challenging myself to learn new technologies and strive to be constantly growing.
 
 ## Technologies 🚀
 ### Programming Languages 💻
