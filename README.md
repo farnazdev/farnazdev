@@ -82,7 +82,12 @@ Hi, I'm Farnaz Boroumand, a Software Engineering student with a focus on back-en
 ## Contact me
 <div align="left">
   <a href="https://www.linkedin.com/in/farnaz-boroumand-01b134201" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
+  </a>
+</div>
+<div align="left">
+  <a href="https://www.instagram.com/farnaz.boroumand" target="_blank">
+   <img src="https://github.com/user-attachments/assets/4f9c28e1-01ae-43d6-a4c8-07d27c439be9" width="52" height="40" alt="Instagram logo"  /> 
   </a>
 </div>
 
