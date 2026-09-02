@@ -1,5 +1,5 @@
 ## About me 
-Hi, I'm Farnaz, a Software Engineering student with a focus on back-end development and data analytics. My strong suit lies in technologies like TypeScript and JavaScript, and I work with frameworks such as React and Node.js. I enjoy challenging myself to learn new technologies and strive to be constantly growing.
+Hi, I'm Farnaz Boroumand, a Software Engineering student with a focus on back-end development and data analytics. My strong suit lies in technologies like TypeScript and JavaScript, and I work with frameworks such as React and Node.js. I enjoy challenging myself to learn new technologies and strive to be constantly growing.
 
 ## Technologies 🚀
 ### Programming Languages 💻
@@ -81,7 +81,7 @@ Hi, I'm Farnaz, a Software Engineering student with a focus on back-end developm
 
 ## Contact me
 <div align="left">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/farnaz-boroumand-01b134201" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
